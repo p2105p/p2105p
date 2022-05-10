@@ -1,7 +1,5 @@
-Hi, I'm Paolo.
-
-I’m hobbist programmer interested in Rhinoceros 3D programming
+Hi, I'm Paolo, hobbist programmer interested in Rhinoceros 3D programming
 
 I’m currently learning C# - Python - Javascript
 
-mail: paolodebortol@gmail.com
+if you have ideas or suggestions feel free to contact me: paolodebortol@gmail.com
