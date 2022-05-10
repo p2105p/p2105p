@@ -1,4 +1,4 @@
-Hi, I'm Paolo, hobbist programmer interested in Rhinoceros 3D programming
+Hi, I'm Paolo, hobbist programmer interested in Rhinoceros 3D, programming and graphics
 
 I’m currently learning C# - Python - Javascript
 
